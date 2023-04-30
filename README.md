@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**HelenBonilla/HelenBonilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/Pns0WLGxwavurbRDdC/giphy.gif" width="300" />
+   <h1 align="center"> Hi 👋 , I'm Helen Bonilla ! </h1>
+   <h3 align="center"> A passionate web developer from Colombia. </h3>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 About me:
+
+- 💬 Ask me about **Javascript, UI/UX Desing, Python**
+- 🌱 I’m currently learning **React js**
+- 📫 How to reach me: helenbonillag@gmail.com
