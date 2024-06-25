@@ -9,5 +9,5 @@
 ### 👩‍💻 About me:
 
 - 💬 Ask me about **Javascript and UI/UX Desing**
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **React js / Vue js**
 - 📫 How to reach me: helenbonillag@gmail.com
